@@ -1,7 +1,7 @@
 # I Hacked-LA-2022
 - "submit" your work by creating a branch with a name formatted like `hacked-la-2022_{your team name}`
   
-> Your Group Members
+> Tolu Adegbehingbe, Aneesh Bulusu, Ivan Guo, Sam Gupta
 
 # This Project
 > Link to presentation: 
